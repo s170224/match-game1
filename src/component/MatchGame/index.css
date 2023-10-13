@@ -1,0 +1,75 @@
+.main-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  text-align: center;
+}
+.logoImage {
+  height: 35px;
+  width: 185px;
+  margin-top: 10px;
+}
+.navContainerS {
+  background-color: #2c0e3a;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: flex-start;
+}
+.paraScore {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: bold;
+  padding-top: 5px;
+}
+.countScore {
+  color: #fec653;
+  font-weight: bold;
+  padding-top: 5px;
+}
+.count-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  margin-left: 950px;
+}
+.timeImage {
+  height: 45px;
+  padding-top: 15px;
+  margin-left: 30px;
+}
+.fruit-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 10px;
+}
+.mathListContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 50px;
+  width: 70vw;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.thubnailImage {
+  height: 350px;
+  width: 550px;
+}
+.thumb-con {
+  margin-top: 60px;
+}
+.secpara {
+  color: #fec653;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-top: 25px;
+  margin-left: 10px;
+}
+.sec-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
